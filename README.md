@@ -80,3 +80,10 @@ O objetivo é transformar dados em informações úteis para apoiar a tomada de 
 ## 👨‍💻 Autor
 
 Desenvolvido por Ryller Fonseca  
+
+---
+
+## 📚 Créditos
+
+Projeto desenvolvido com base em estudos realizados na Data Science Academy.  
+Os dados utilizados fazem parte do material educacional disponibilizado pela plataforma.
